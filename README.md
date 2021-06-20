@@ -2,9 +2,8 @@
 Sparks Foundation (Data Science &amp; Business Analytics) Internship
 
 
-Task: 
+Task1: 
 Prediction using Supervised ML
-
 
 Problem Statement:
 
