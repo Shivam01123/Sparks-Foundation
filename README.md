@@ -1,5 +1,5 @@
-# Sparks-Foundation-Internship
-Sparks Foundation (Data Science &amp; Business Analytics) Internship
+# Sparks-Foundation
+Sparks Foundation (Data Science &amp; Business Analytics) Task
 
 
 Task1: 
